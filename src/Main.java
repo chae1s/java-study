@@ -16,5 +16,7 @@ public class Main {
         }
 
         System.out.println("test code");
+
+        System.out.println("test1");
     }
 }
