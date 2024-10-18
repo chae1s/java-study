@@ -40,4 +40,8 @@ public class PersonVO {
     public void setPhone(String phone) {
         this.phone = phone;
     }
+
+    public String toString() {
+        return name + "\t" + age + "\t" + phone;
+    }
 }
