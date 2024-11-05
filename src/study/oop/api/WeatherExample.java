@@ -12,7 +12,7 @@ import java.net.URL;
 public class WeatherExample {
     public static void main(String[] args) {
 
-        String apiKey = "71a2127eafa89d1a00ef723ef2e0a60c";
+        String apiKey = "*";
 
         String city = "Seoul";
 
